@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<m-card imgSrc="/test.png" summary="这是简介啊这是汉堡简介" />
+<m-card imgSrc="/irayui/test.png" summary="这是简介啊这是汉堡简介" />
 
 ### 代码
 ```html
