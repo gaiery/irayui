@@ -1,5 +1,5 @@
 module.exports = {
-    base:"./",
+    base:"/irayui/",
     themeConfig: {
       sidebar: [
         '/',
