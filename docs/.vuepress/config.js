@@ -1,6 +1,6 @@
 module.exports = {
+    base:"./",
     themeConfig: {
-      base:"/irayui/",
       sidebar: [
         '/',
         '/componentDocs/card'
